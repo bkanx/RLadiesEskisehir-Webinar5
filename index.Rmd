@@ -200,16 +200,7 @@ knitr::include_graphics('youtube.png')
 
 Webinar #1: https://youtu.be/A-zCgrfDavI
 
-```{r, echo=FALSE,out.width="15%",fig.align='left'}
-knitr::include_graphics('kayit1.png')
-```
-
-
 Webinar #2: https://youtube.com/watch?v=uCzPwMknOxQ
-
-```{r, echo=FALSE,out.width="15%",fig.align='left'}
-knitr::include_graphics('kayit2.png')
-```
 
 Webinar #3:
 
