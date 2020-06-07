@@ -7,7 +7,7 @@
 
 26.06.2020
 
-# tidytext ile Metin Madenciliğ ve Duygu Analizi
+# tidytext ile Metin Madenciliği ve Duygu Analizi
 
 ## Emre Gümüş
   
