@@ -7,8 +7,8 @@
 
 # tidytext ile Metin Madenciliğ ve Duygu Analizi
 
-Emre Gümüş
+## Emre Gümüş
   
-Eskişehir Teknik Üniversitesi
+  - Eskişehir Teknik Üniversitesi
  
-İstatistik Bölümü
+  - İstatistik Bölümü
