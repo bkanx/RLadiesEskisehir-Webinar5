@@ -9,6 +9,4 @@
 
 ## Emre Gümüş
   
-  - Eskişehir Teknik Üniversitesi
- 
-  - İstatistik Bölümü
+  - Eskişehir Teknik Üniversitesi/ İstatistik Bölümü
