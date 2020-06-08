@@ -5,7 +5,7 @@
 #### together with RLadies İstanbul and RLadies Ankara
 
 
-26.06.2020
+26.06.2020 Saat:20.00
 
 # tidytext ile Metin Madenciliği ve Duygu Analizi
 
