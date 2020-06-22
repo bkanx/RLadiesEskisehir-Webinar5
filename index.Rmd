@@ -1,7 +1,7 @@
 ---
 title:  |
   ![](slide1.png){width=11in}  
-  Webinar 6
+  Webinar 5
 
 # author: 
 #   - "R-Ladies İstanbul"
@@ -202,11 +202,8 @@ Webinar #1: https://youtu.be/A-zCgrfDavI
 
 Webinar #2: https://youtube.com/watch?v=uCzPwMknOxQ
 
-Webinar #3:
+Webinar #4: https://www.youtube.com/watch?v=ykmoy3AO_qI&t=710s
 
-Webinar #4:
-
-Webinar #5:
 
 
 ---
